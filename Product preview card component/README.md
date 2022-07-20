@@ -1,6 +1,6 @@
 # If you want to see live site of this project, please visit:
 
-[]: # [Here](https://codesandbox.io/s/wglt4s)
+[Here](https://codesandbox.io/s/wglt4s)
 
 # Frontend Mentor - Product preview card component
 
